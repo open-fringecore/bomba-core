@@ -17,6 +17,7 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "dgram": "^1.0.1"
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
   }
 }
