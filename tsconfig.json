@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"noImplicitReturns": false,
+
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["src/*"]
+        }
+	},
+	"include": ["src"],
+    "exclude": ["node_modules"]
+}
